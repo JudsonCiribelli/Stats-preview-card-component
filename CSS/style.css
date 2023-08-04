@@ -29,3 +29,19 @@ body {
   color: hsla(0, 0%, 100%, 0.6);
   padding: 30px 0px 0px 45px;
 }
+.content .description .title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  color: hsl(0, 0%, 100%);
+}
+.content .description .title h2 {
+  padding-top: 80px;
+  padding-right: 55px;
+}
+.content .description .subtitle {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  color: hsla(0, 0%, 100%, 0.6);
+}
